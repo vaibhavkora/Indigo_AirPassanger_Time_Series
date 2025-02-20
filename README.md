@@ -18,7 +18,7 @@ This project performs a time series analysis on the classic Air Passengers datas
 - Features: The data exhibits clear trends and seasonality, making it ideal for time series modeling.
 
 # 🛠Methodology
-**Dependencies*8
+**Dependencies**
 - The project relies on the following Python libraries:
   
       import pandas as pd
