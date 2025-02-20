@@ -1,6 +1,6 @@
 # Indigo AirPassanger Time Series
 
-![Image_Alt](Recommender_system.png)
+![Image_Alt](Time_Series.jpg)
 
 # 📌Overview
 This project performs a time series analysis on the classic Air Passengers dataset, which records monthly passenger numbers from January 1949 to December 1960. The primary goal is to explore the dataset, preprocess it, and apply time series forecasting techniques (e.g., ARIMA) to predict future passenger numbers. This repository demonstrates data cleaning, exploratory data analysis (EDA), and forecasting using Python.
